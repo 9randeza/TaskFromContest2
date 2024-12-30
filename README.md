@@ -9,7 +9,7 @@
  ___
 
 ## Разъеснение кода
-Всё основано на предыдущей программе решающую  [задачу №7](https://github.com/9randeza/TaskFromContest/blob/main/README.md?plain=1) с некоторыми изменениями для работы с k-значной логикой.
+Всё основано на предыдущей программе решающую  [задачу №7](https://github.com/9randeza/TaskFromContest/tree/main) с некоторыми изменениями для работы с k-значной логикой.
 1. К примеру создание селекторов на основе начальных данных.
 ```cpp
 vector<int> generateVariable(int k, int size) {
